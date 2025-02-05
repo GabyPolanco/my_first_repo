@@ -1,4 +1,5 @@
 x <-2
 y<- 3
-x+y
-print x
+print (x+y)
+print (y-x)
+
